@@ -1,4 +1,4 @@
 # Table of contents
 
-* [UNII Studio](README.md)
+* [Blazeblaze](README.md)
 
