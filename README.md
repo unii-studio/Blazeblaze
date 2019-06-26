@@ -1,5 +1,5 @@
 ---
-description: Fast paced infinite top down magic based shooter
+description: A  Fast paced infinite top-down magic shooter
 ---
 
 # Blazeblaze
@@ -18,7 +18,7 @@ description: Fast paced infinite top down magic based shooter
 
 **MVP Game Moment:**  10 min of play in a handcrafted level that has spawning enemies, objectives, 2 firing modes, and upgrades.
 
-**Game Summary:**  Project "Blazeblaze" is about magic crusaders who are apart of the guild, Unity, tasked with maintaining order in the world. The player is given randomly generated crusaders who are talented in fire, ice, and chaos magic, the magic that was used to forge the world. The work of a crusader is brutal and unforgiving, requiring hours of labor navigating the vast land of blazlandia to investigate hot spots, collect information for research, and tame the unstable beasts of the land. The stability of the world is crumbling and the guild suspects that there is something or someone behind this. There are rumors that it is an organization ran by exiled crusaders, that the God of Chaos has returned once more to rule his land, and that the world is coming to an end. It is your job along with the Unity to ensure that this never happens and that once more Blazlandia and return to the peace of pure balance.
+**Game Summary:**  Project "Blazeblaze" is about magic crusaders who are apart of the guild, Unity, tasked with maintaining order in the world. The player is given randomly generated crusaders who are talented in fire, ice, and chaos magic, the magic that was used to forge the world. The work of a crusader is brutal and unforgiving, requiring hours of labor navigating the vast land of Blazlandia to investigate hot spots, collect information for research, and tame the unstable beasts of the land. The stability of the world is crumbling and the guild suspects that there is something or someone behind this. There are rumors that it is an organization ran by exiled crusaders, that the God of Chaos has returned once more to rule his land, and that the world is coming to an end. It is your job along with Unity to ensure that this never happens and that Blazlandia can return to the peace of pure balance once more.
 
 **Core Player Experience:** Exploration and exhilarating combat.
 
